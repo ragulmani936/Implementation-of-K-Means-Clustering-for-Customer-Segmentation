@@ -64,6 +64,6 @@ plt.title("Customer Segments")
 ## Data info:
 ![pic 2](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20info.png)
 ## Data isnull:
-![pic 3]()
+![pic 3](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20isnull.png)
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
