@@ -62,7 +62,7 @@ plt.title("Customer Segments")
 ## Data head:
 ![pic 1](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20head.png)
 ## Data info:
-![pic 2]()
+![pic 2](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20info.png)
 ## Data isnull:
 ![pic 3]()
 ## Result:
