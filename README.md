@@ -26,6 +26,7 @@ Developed by:Ragul M
 RegisterNumber:212221230080  
 */
 ```
+~~~
 import pandas as pd
 import matplotlib.pyplot as plt
 data=pd.read_csv("Mall_Customers.csv")
@@ -58,6 +59,7 @@ plt.scatter(df3["Annual Income"],df3["Score"],c="green",label="cluster3")
 plt.scatter(df4["Annual Income"],df4["Score"],c="red",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
+~~~
 ## Output:
 ## Data head:
 ![pic 1](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20head.png)
