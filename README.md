@@ -65,5 +65,11 @@ plt.title("Customer Segments")
 ![pic 2](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20info.png)
 ## Data isnull:
 ![pic 3](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20isnull.png)
+## Elbow Method:
+![pic 4]()
+## Y_Pred:
+![pic 5]()
+## Cluster:
+![pic 6]()
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
