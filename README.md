@@ -68,7 +68,7 @@ plt.title("Customer Segments")
 ## Elbow Method:
 ![pic 4](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/elbow%20method.png)
 ## Y_Pred:
-![pic 5]()
+![pic 5](https://github.com/ragulmani936/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/y_pred.png)
 ## Cluster:
 ![pic 6]()
 ## Result:
